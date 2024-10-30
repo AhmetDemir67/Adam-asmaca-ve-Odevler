@@ -1,0 +1,7 @@
+C:\Users\Ahmet demir\source\repos\Npt_Lab_Sorular\Soru5\bin\Debug\Soru5.exe.config
+C:\Users\Ahmet demir\source\repos\Npt_Lab_Sorular\Soru5\bin\Debug\Soru5.exe
+C:\Users\Ahmet demir\source\repos\Npt_Lab_Sorular\Soru5\bin\Debug\Soru5.pdb
+C:\Users\Ahmet demir\source\repos\Npt_Lab_Sorular\Soru5\obj\Debug\Soru5.csprojAssemblyReference.cache
+C:\Users\Ahmet demir\source\repos\Npt_Lab_Sorular\Soru5\obj\Debug\Soru5.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet demir\source\repos\Npt_Lab_Sorular\Soru5\obj\Debug\Soru5.exe
+C:\Users\Ahmet demir\source\repos\Npt_Lab_Sorular\Soru5\obj\Debug\Soru5.pdb

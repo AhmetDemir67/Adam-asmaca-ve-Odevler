@@ -1,0 +1,7 @@
+C:\Users\Ahmet demir\source\repos\Npt_Lab_Sorular\Npt_Lab_Sorular\bin\Debug\Npt_Lab_Sorular.exe.config
+C:\Users\Ahmet demir\source\repos\Npt_Lab_Sorular\Npt_Lab_Sorular\bin\Debug\Npt_Lab_Sorular.exe
+C:\Users\Ahmet demir\source\repos\Npt_Lab_Sorular\Npt_Lab_Sorular\bin\Debug\Npt_Lab_Sorular.pdb
+C:\Users\Ahmet demir\source\repos\Npt_Lab_Sorular\Npt_Lab_Sorular\obj\Debug\Soru1.csprojAssemblyReference.cache
+C:\Users\Ahmet demir\source\repos\Npt_Lab_Sorular\Npt_Lab_Sorular\obj\Debug\Soru1.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet demir\source\repos\Npt_Lab_Sorular\Npt_Lab_Sorular\obj\Debug\Npt_Lab_Sorular.exe
+C:\Users\Ahmet demir\source\repos\Npt_Lab_Sorular\Npt_Lab_Sorular\obj\Debug\Npt_Lab_Sorular.pdb
