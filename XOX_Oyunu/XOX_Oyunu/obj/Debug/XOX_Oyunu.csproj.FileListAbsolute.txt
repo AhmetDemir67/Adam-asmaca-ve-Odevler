@@ -1,0 +1,10 @@
+C:\Users\Ahmet demir\source\repos\XOX_Oyunu\XOX_Oyunu\bin\Debug\XOX_Oyunu.exe.config
+C:\Users\Ahmet demir\source\repos\XOX_Oyunu\XOX_Oyunu\bin\Debug\XOX_Oyunu.exe
+C:\Users\Ahmet demir\source\repos\XOX_Oyunu\XOX_Oyunu\bin\Debug\XOX_Oyunu.pdb
+C:\Users\Ahmet demir\source\repos\XOX_Oyunu\XOX_Oyunu\obj\Debug\XOX_Oyunu.csprojAssemblyReference.cache
+C:\Users\Ahmet demir\source\repos\XOX_Oyunu\XOX_Oyunu\obj\Debug\XOX_Oyunu.Form1.resources
+C:\Users\Ahmet demir\source\repos\XOX_Oyunu\XOX_Oyunu\obj\Debug\XOX_Oyunu.Properties.Resources.resources
+C:\Users\Ahmet demir\source\repos\XOX_Oyunu\XOX_Oyunu\obj\Debug\XOX_Oyunu.csproj.GenerateResource.cache
+C:\Users\Ahmet demir\source\repos\XOX_Oyunu\XOX_Oyunu\obj\Debug\XOX_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet demir\source\repos\XOX_Oyunu\XOX_Oyunu\obj\Debug\XOX_Oyunu.exe
+C:\Users\Ahmet demir\source\repos\XOX_Oyunu\XOX_Oyunu\obj\Debug\XOX_Oyunu.pdb
