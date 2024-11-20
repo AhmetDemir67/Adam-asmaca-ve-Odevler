@@ -1,0 +1,7 @@
+C:\Users\Ahmet demir\source\repos\UML_SORULARİ\UML_SORULARİ\obj\Debug\UML_SORULARİ.csprojAssemblyReference.cache
+C:\Users\Ahmet demir\source\repos\UML_SORULARİ\UML_SORULARİ\obj\Debug\UML_SORULARİ.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet demir\source\repos\UML_SORULARİ\UML_SORULARİ\bin\Debug\UML_SORULARİ.exe.config
+C:\Users\Ahmet demir\source\repos\UML_SORULARİ\UML_SORULARİ\bin\Debug\UML_SORULARİ.exe
+C:\Users\Ahmet demir\source\repos\UML_SORULARİ\UML_SORULARİ\bin\Debug\UML_SORULARİ.pdb
+C:\Users\Ahmet demir\source\repos\UML_SORULARİ\UML_SORULARİ\obj\Debug\UML_SORULARİ.exe
+C:\Users\Ahmet demir\source\repos\UML_SORULARİ\UML_SORULARİ\obj\Debug\UML_SORULARİ.pdb
