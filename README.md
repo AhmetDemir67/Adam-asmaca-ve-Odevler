@@ -1,1 +1,1 @@
-# Adam-asmaca-ve-devler-
+# Adam asmaca ve odevler
